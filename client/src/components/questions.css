@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@1,700&family=Dancing+Script:wght@600&family=League+Gothic&family=Merriweather:wght@700&family=Open+Sans&display=swap');
+.q-card{
+    width: 760px;
+    height: 180px;
+    background: #FFFFFF;   
+    border: 1px solid  white;
+    box-shadow: 0px 2px 10px rgba(155, 155, 155, 0,118376);
+    border-radius: 4px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.app{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.app{
+    background-color: #E3E3E3;
+}
+
+.question{
+    width: 698px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 29px;
+    margin-right: 33px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight:400;
+    line-height: 24px;
+}
+
+.options{
+    border: 2px solid white;
+    width: 56px;
+    height: 66px;
+    margin-left: 29px;
+    margin-right: 675px;
+    margin-top:20px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    font-weight:400;
+    line-height: 24px;
+}
+
+.text-input{
+    position: absolute;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+    width: 705px;
+    height: 68px;
+    margin-top: 10px;
+    margin-left: 31px;
+    margin-right: 24px;
+}
+
+input::placeholder {
+    position: absolute;
+    width: 121px;
+    height: 20px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    mix-blend-mode: normal;
+    opacity: 0.4;
+  }
+
+  .client-name{
+    width: 760px;
+    height: 144px;
+    background: #FFFFFF;
+    border: 1px solid  white;
+    box-shadow: 0px 2px 10px rgba(155, 155, 155, 0,118376);
+    border-radius: 4px;
+    margin: auto;
+    position: relative;
+  }
+
+  .para-name{
+    margin-left: 31px;
+    margin-top:13px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.12px;
+  }
+ .names
+ {
+    position: absolute;
+    top:48px;
+    left : 123px;
+  
+ }
+  .img-card{
+    margin-top: 15px;
+    margin-left: 31px;
+    width: 74px;
+    height: 74px;
+    background-color: #000000;
+    text-align:center;
+    background-image: url("https://s3-alpha-sig.figma.com/img/aa74/4387/a73be593b906601ae603f0a7a32f616f?Expires=1664150400&Signature=S3QTssaEhAVyy4vzqYapDnIVFFKf3gNcc7MLNcVcpKn5UkCgUfkbZzD47Jl2fNRN5BHN2r0D-NjF7OhLx1bz4hhu0D1I1OQVF9BkCPPhBVnuoliyVIM5mAD9gPX2lJRt00mMti1D8PPpfGJGqnk1RuQL7WHQqa~zlRtWDGVd6OGY-0paKqtbL-Soa88nY-WfXYRHK0SXVGfwogyejL7JSGkSd0srdQtFDUSTgJloLjNM4h2eIfgLX~zBZUUVKbdwWFgCwOTaKuJ8Wj96KvVsvxe81cGZSFe1mpQK7jIbscepAJqN0calgektiFQNhnWsdGZK5Av4MnIm1iVuoKRnwA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-repeat:no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+  }
+
+.details{
+    display: inline;
+    margin-left:123px;
+    margin-top: 23px;
+}
+
+
+
+.button-box{
+    padding-top: 75px;
+   /* margin-top: 75px; */
+   gap:29.84px;
+  
+}
+button{
+padding :0px;
+width: 175.16px;
+height: 42.38px;
+border: 0px;
+
+}
+.accept-button{
+    background-color: #5655C6;
+    color: white;
+}
+
+.decline{
+    color:#5655C6;
+    border: 2px solid #5655C6;
+    background-color: white;
+}
